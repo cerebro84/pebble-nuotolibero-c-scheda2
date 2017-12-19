@@ -1,0 +1,24 @@
+{
+    "author": "cerebro84@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "nl-scheda-2",
+    "pebble": {
+        "displayName": "Nuoto libero Scheda 2",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite"
+        ],
+        "uuid": "76c02493-74d6-44bb-9d1b-959310cfdd56",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
