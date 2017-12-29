@@ -9,7 +9,7 @@ static ScrollLayer *s_scroll_layer;
 static TextLayer *s_text_layer;
 
 // Lorum ipsum to have something to scroll
-static char s_scroll_text[] = "N.B. 25 m = una vasca\r\n\r\nRiscaldamento, bpm 50% MFC :\r\n\r\n200 m crawl completo\r\n\r\n100 m dorso completo\r\n\r\nA2 fase aerobica, bpm 65% MFC:\r\n\r\n3 x 100 m misti 25 m delfino\r\n 25 m dorso \r\n25 m rana \r\n25 m crawl. Riposo 40 sec. tra uno scatto e l\'altro\r\n\r\n4 x 50 m 25 m dorso completo + 25 m rana completa. Riposo 20 sec. tra uno scatto e l\'altro\r\n \r\nB1 soglia aerobica, bpm 75% MFC:\r\n\r\n10 x 50 m braccia crawl con il galleggiante (pull buoy) tra le gambe. Riposo 20 sec. tra uno scatto e l\'altro\r\n\r\n \r\n\r\nC1 tolleranza al lattato, bpm 85% MFC:\r\n\r\n6 x 25 m dorso. Riposo 40 sec. tra uno scatto e l\'altro\r\n\r\nDefaticamento:\r\n\r\n100 m a piacere";
+static char s_scroll_text[] = "N.B. 25 m = una vasca\r\n\r\n \r\n\r\nRiscaldamento, bpm 50% MFC :\r\n\r\n300 m, 50 m crawl completo + 50 m dorso completo\r\n\r\n \r\n\r\nA2 fase aerobica, bpm 65% MFC:\r\n\r\n8 x 50 m uno scatto crawl completo e uno scatto dorso completo. Riposo 30 sec. tra uno scatto e l\'altro. Riposo di 1 min. e 30 sec. tra le due serie\r\n\r\n6 x 75 m 25 m dorso completo + 50 m rana completa. Riposo 40 sec. tra uno scatto e l\'altro\r\n\r\n3 x 100 m gambe crawl con tavoletta. Riposo 30 sec. tra uno scatto e l\'altro\r\n\r\n\r\n \r\n\r\nB1 soglia aerobica, bpm 75% MFC:\r\n\r\n4 x 75 m crawl completo. Riposo 30 sec. tra uno scatto e l\'altro\r\n\r\n \r\n\r\nDefaticamento:\r\n\r\n100 m a piacere\r\n\r\n \r\n\r\nTot. 1850 m";
 
 // Setup the scroll layer on window load
 // We do this here in order to be able to get the max used text size
