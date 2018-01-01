@@ -9,7 +9,7 @@ static ScrollLayer *s_scroll_layer;
 static TextLayer *s_text_layer;
 
 // Lorum ipsum to have something to scroll
-static char s_scroll_text[] = "Riscaldamento, bpm 50% MFC :\r\n\r\n100 m crawl completo\r\n\r\n100 m dorso completo\r\n\r\n100 m rana completo\r\n\r\n \r\n\r\nA1 fase aerobica, bpm 55-60% MFC:\r\n\r\n2 x [8 x 25 m] crawl alternato con pausa di 2 sec. tra una bracciata e l\'altra e gambe alla massima frequenza possibile. Riposo 15 sec. tra uno scatto e l\'altro. Riposo di 1 min. tra le due serie\r\n\r\n\r\n \r\n\r\nA2 fase aerobica, bpm 65% MFC:\r\n\r\n4 x 50 m dorso completo. Riposo 15 sec. tra uno scatto e l\'altro\r\n\r\n20 x 25 m crawl completo con boccaglio. Riposo 10 sec. tra uno scatto e l\'altro\r\n\r\n \r\n\r\nDefaticamento:\r\n\r\n100 m a piacere";
+static char s_scroll_text[] = "N.B. 25 m = una vasca\r\n\r\n \r\n\r\nRiscaldamento, bpm 50% MFC :\r\n\r\n200 m crawl completo\r\n\r\n100 m rana completa\r\n\r\n \r\n\r\nA2 fase aerobica, bpm 65% MFC:\r\n\r\n2 x 75 m rana completa. Riposo 40 sec. tra uno scatto e l\'altro\r\n\r\n10 x 50 m crawl con un braccio. Riposo 25 sec. tra uno scatto e l\'altro. Cambiare braccio ogni 25 m\r\n\r\n\r\n \r\n\r\nC1 tolleranza al lattato, bpm 85% MFC:\r\n\r\n6 x 25 m crawl completo. Riposo 40 sec. tra uno scatto e l\'altro\r\n\r\n6 x 50 m crawl completo con palette. Uno scatto veloce uno piano. Riposo 45 sec. tra uno scatto e l\'altro\r\n\r\n \r\n\r\nDefaticamento:\r\n\r\n100 m a piacere\r\n\r\n \r\n\r\nTot. 1500 m";
 
 // Setup the scroll layer on window load
 // We do this here in order to be able to get the max used text size

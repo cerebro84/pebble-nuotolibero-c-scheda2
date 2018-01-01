@@ -2,9 +2,9 @@
     "author": "cerebro84@gmail.com",
     "dependencies": {},
     "keywords": [],
-    "name": "nl-scheda-2",
+    "name": "nl-scheda-7",
     "pebble": {
-        "displayName": "Nuoto libero Scheda 2",
+        "displayName": "Nuoto libero Scheda 7",
         "enableMultiJS": true,
         "messageKeys": [],
         "projectType": "native",
