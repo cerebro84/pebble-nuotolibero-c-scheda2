@@ -1,2 +1,2 @@
-# pebble-nuotolibero-c-scheda2
+# pebble-nuotolibero-c-scheda
 Scheda 2 nuoto libero da nuotomania
