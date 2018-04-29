@@ -2,9 +2,9 @@
     "author": "cerebro84@gmail.com",
     "dependencies": {},
     "keywords": [],
-    "name": "nl-scheda-13",
+    "name": "npd-scheda-7",
     "pebble": {
-        "displayName": "Nuoto libero Scheda 13",
+        "displayName": "Nuoto per dimagrire scheda 7",
         "enableMultiJS": true,
         "messageKeys": [],
         "projectType": "native",

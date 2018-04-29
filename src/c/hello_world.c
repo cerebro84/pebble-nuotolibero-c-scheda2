@@ -9,7 +9,7 @@ static ScrollLayer *s_scroll_layer;
 static TextLayer *s_text_layer;
 
 // Lorum ipsum to have something to scroll
-static char s_scroll_text[] = "N.B. 25 m = una vasca\r\n\r\n \r\n\r\nRiscaldamento, bpm 50% MFC :\r\n\r\n200 m dorso completo\r\n\r\n200 m gambe rana 50 m con tavoletta + 50 m senza tavoletta (braccia ferme e distese avanti)\r\n\r\n \r\n\r\nA2 fase aerobica, bpm 65% MFC:\r\n\r\n2 x 500 crawl completo. Riposo 40 sec. tra uno scatto e l\'altro\r\n\r\n20 x 25 m dorso completo. Riposo 10 sec. tra uno scatto e l\'altro\r\n\r\n\r\n \r\n\r\nDefaticamento:\r\n\r\n100 m scioltezza a piacere\r\n\r\n \r\n\r\nTot. 2000 m\r\n\r\n";
+static char s_scroll_text[] = "\r\nRiscaldamento, bpm 50% MFC :\r\n\r\n500 m (250 m dorso completo \r\n200 m rana completa).\r\nA2 fase aerobica, bpm 65% MFC:\r\n\r\n2 x [ 3 x 100 m, riposo 15 sec. tra uno scatto e l\'altro + 6 x 50 m, riposo 10 sec. tra uno scatto e l\'altro + 1 x 300 m]. Tutto braccia crawl con il galleggiante (pull buoy) tra le gambe e palette.\r\n10 x 75 m, gambe crawl con tavoletta. Riposo 10 sec. tra uno scatto e l\'altro.\r\nDefaticamento:\r\n\r\n100 m dorso completo";
 
 // Setup the scroll layer on window load
 // We do this here in order to be able to get the max used text size
