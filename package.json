@@ -2,9 +2,9 @@
     "author": "cerebro84@gmail.com",
     "dependencies": {},
     "keywords": [],
-    "name": "npd-scheda-8",
+    "name": "npd-scheda-9",
     "pebble": {
-        "displayName": "Nuoto per dimagrire 8",
+        "displayName": "Nuoto per dimagrire 9",
         "enableMultiJS": true,
         "messageKeys": [],
         "projectType": "native",

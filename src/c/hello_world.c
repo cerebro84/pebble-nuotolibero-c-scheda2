@@ -9,7 +9,7 @@ static ScrollLayer *s_scroll_layer;
 static TextLayer *s_text_layer;
 
 // Lorum ipsum to have something to scroll
-static char s_scroll_text[] = "\r\nRiscaldamento, bpm 50% MFC :\r\n\r\n500 m (200 m crawl completo \n200 m dorso completo \n 100 m rana completa).\r\nA2 fase aerobica, bpm 65% MFC:\r\n\r\n4 x (1 x 25 m, riposo 10 sec. + 1 x 50 m , riposo 20 sec. + 1 x 25 m, riposo 10 sec.) una serie per stile: delfino, dorso rana, crawl. Nessun riposo tra una serie e l\'altra (400 m misto frazionato).\r\n8 x 200 m, crawl completo. Riposo 20 sec. tra uno scatto e l\'altro.\r\n8 x 50 m, gambe crawl con tavoletta. Riposo 20 sec. tra uno scatto e l\'altro.\r\n8 x 25 m, crawl completo. Riposo 30 sec. tra uno scatto e l\'altro. Tutti sostenuti.\r\nDefaticamento:\r\n\r\n100 m crawl completo.\r\n Tot. 3200 m";
+static char s_scroll_text[] = "Riscaldamento, bpm 50% MFC :\r\n\r\n    500 m (200 m crawl completo \n 200 m dorso completo \n 100 m rana completa).\r\n\r\nA2 fase aerobica, bpm 65% MFC:\r\n\r\n    4 x (1 x 25 m, riposo 10 sec. + 1 x 50 m , riposo 20 sec. + 1 x 25 m, riposo 10 sec.) una serie per stile: delfino, dorso rana, crawl. Nessun riposo tra una serie e l\'altra (400 m misto frazionato).\r\n    8 x 200 m, crawl completo. Riposo 20 sec. tra uno scatto e l\'altro.\r\n    8 x 50 m, gambe crawl con tavoletta. Riposo 20 sec. tra uno scatto e l\'altro.\r\n    8 x 25 m, crawl completo. Riposo 30 sec. tra uno scatto e l\'altro. Tutti sostenuti.\r\n\r\nDefaticamento:\r\n\r\n    100 m crawl completo.\r\n\r\n Tot. 3200 m";
 
 // Setup the scroll layer on window load
 // We do this here in order to be able to get the max used text size
