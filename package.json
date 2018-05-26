@@ -2,9 +2,9 @@
     "author": "cerebro84@gmail.com",
     "dependencies": {},
     "keywords": [],
-    "name": "npd-scheda-10",
+    "name": "npd-scheda-11",
     "pebble": {
-        "displayName": "Nuoto per dimagrire 10",
+        "displayName": "Npd 11",
         "enableMultiJS": true,
         "messageKeys": [],
         "projectType": "native",
@@ -15,7 +15,7 @@
         "targetPlatforms": [
             "aplite"
         ],
-        "uuid": "76c02493-74d6-44bb-9d1b-959310cfdd56",
+        "uuid": "11c02493-74d6-44bb-9d1b-959310cfdd56",
         "watchapp": {
             "watchface": false
         }
