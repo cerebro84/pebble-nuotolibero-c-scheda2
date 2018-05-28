@@ -2,9 +2,9 @@
     "author": "cerebro84@gmail.com",
     "dependencies": {},
     "keywords": [],
-    "name": "npd-scheda-11",
+    "name": "npd-scheda-12",
     "pebble": {
-        "displayName": "Npd 11",
+        "displayName": "Npd 12",
         "enableMultiJS": true,
         "messageKeys": [],
         "projectType": "native",
@@ -15,7 +15,7 @@
         "targetPlatforms": [
             "aplite"
         ],
-        "uuid": "11c02493-74d6-44bb-9d1b-959310cfdd56",
+        "uuid": "12c02493-74d6-44bb-9d1b-959310cfdd56",
         "watchapp": {
             "watchface": false
         }
